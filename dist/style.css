@@ -1,0 +1,17 @@
+#pic{
+    width: 150px;
+    height: 150px;
+}
+
+
+
+#main{
+    background-color: lightsalmon;
+    border: solid;
+    width: 500px;
+    height: 500px;
+
+}
+body{
+    background-color: lightslategrey;
+}
